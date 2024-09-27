@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Nuxt3.js and Vue3.js<br>🌱 I’m currently learning React.js and TS as well<br>⚡ Fun fact: I'm a Nurse
+🔭 I’m currently working on Nuxt3.js and Vue3.js<br>🌱 Learning React.js and TS as well<br>⚡ Fun fact: I'm a Nurse
 
 
 ## 🌐 Socials:
